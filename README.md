@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Backend Developer
+## Saya seorang Pengembang Backend
 - 🌱 Saat ini saya sedang belajar lebih banyak tentang pengembangan backend.
 - 🏆 Tujuan 2022 Berkontribusi lebih banyak pada Open Source.
 - 📫 Apa cara terbaik untuk menghubungi saya? [Facebook](https://www.facebook.com/mila.aprianti.794/)
